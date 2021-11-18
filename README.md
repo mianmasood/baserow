@@ -1,2 +1,2 @@
 # baserow
-This repository will contain Helm Chart for Baserow.
+This repository contains Helm Chart for Baserow.
